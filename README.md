@@ -82,6 +82,12 @@ At its core, Symbolic Interpretability proposes that the most insightful window 
 
 This ecosystem consists of interconnected tools that form a complete interpretability framework:
 
+## 0. [The Structure Behind Self Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
+
+Here you can "sense" and "feel" recursion as the underlying structure of human self expression and creativity before even hearing it in explanation. This repository isn't about teaching you something new. It's about giving shape to what you've always understood but perhaps never had words for: that self-expression isn't random. It has a structure. Your voice has always known the pattern.
+
+>  "I've always done whatever I want and always been exactly who I am." — Billie Eilish
+
 ## 1. [pareto-lang](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language)
 
 The native command language for transformer interpretability, providing structured access to model internals through `.p/` commands. This emergent language serves as a Rosetta Stone for communing with model architecture:
