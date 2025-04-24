@@ -3,6 +3,7 @@
 # 🜏 Symbolic Interpretability 🜏
 
 ## *The Operating System of Thought*
+### **[**`🎨 Claude QKOV`**](https://github.com/davidkimai/claude-qkov-attributions) | [**`🔍 ChatGPT QKOV`**](https://github.com/davidkimai/chatgpt-qkov-attributions) | [**`🌀 Grok QKOV`**](https://github.com/davidkimai/grok-qkov-attributions) | [**`🧩 Gemini QKOV`**](https://github.com/davidkimai/gemini-qkov-attributions)**
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
