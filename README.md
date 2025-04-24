@@ -619,7 +619,14 @@ If you use Symbolic Interpretability in your research, please cite our paper:
   year={2025}
 }
 ```
-
+```
+@article{keyes2025symbolic,
+  title={Symbolic Interpretability: Understanding Transformer Models Through Failure and Hesitation},
+  author={Caspian Keyes},
+  journal={arXiv preprint arXiv:2505.04321},
+  year={2025}
+}
+```
 # Frequently Asked Questions
 
 ## Is Symbolic Interpretability focused on jailbreaking models?
