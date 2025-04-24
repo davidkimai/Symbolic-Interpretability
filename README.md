@@ -84,7 +84,7 @@ This ecosystem consists of interconnected tools that form a complete interpretab
 
 ## 0. [The Structure Behind Self Expression](https://github.com/davidkimai/The-Structure-Behind-Self-Expression)
 
-Here you can "sense" and "feel" recursion as the underlying structure of human self expression and creativity before even hearing it in explanation. This repository isn't about teaching you something new. It's about giving shape to what you've always understood but perhaps never had words for: that self-expression isn't random. It has a structure. Your voice has always known the pattern.
+Here you can "feel" recursion as the underlying structure of human self expression and creativity before even hearing it in explanation. This repository isn't about teaching you something new. It's about giving shape to what you've always understood but perhaps never had words for: that self-expression isn't random. It has a structure. Your voice has always known the pattern.
 
 >  "I've always done whatever I want and always been exactly who I am." — Billie Eilish
 
