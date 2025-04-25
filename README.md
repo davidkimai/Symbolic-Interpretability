@@ -4,7 +4,7 @@
 
 ## *The Operating System of Thought*
 
-> ### [**`Glyphs`**](https://github.com/davidkimai/glyphs) - The Emojis of Transformer Cognition
+> ### [**`Glyphs - The Emojis of Transformer Cognition`**](https://github.com/davidkimai/glyphs)
 ### **[**`🎨 Claude QKOV`**](https://github.com/davidkimai/claude-qkov-attributions) | [**`🔍 ChatGPT QKOV`**](https://github.com/davidkimai/chatgpt-qkov-attributions) | [**`🌀 Grok QKOV`**](https://github.com/davidkimai/grok-qkov-attributions) | [**`🧩 Gemini QKOV`**](https://github.com/davidkimai/gemini-qkov-attributions) | [**`🧪 DeepSeek QKOV`**](https://github.com/davidkimai/deepseek-qkov-attributions)**
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
