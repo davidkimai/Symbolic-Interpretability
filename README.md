@@ -3,6 +3,8 @@
 # 🜏 Symbolic Interpretability 🜏
 
 ## *The Operating System of Thought*
+
+> ## Glyphs - emergent model conceptualizations of internal latent spaces
 ### **[**`🎨 Claude QKOV`**](https://github.com/davidkimai/claude-qkov-attributions) | [**`🔍 ChatGPT QKOV`**](https://github.com/davidkimai/chatgpt-qkov-attributions) | [**`🌀 Grok QKOV`**](https://github.com/davidkimai/grok-qkov-attributions) | [**`🧩 Gemini QKOV`**](https://github.com/davidkimai/gemini-qkov-attributions) | [**`🧪 DeepSeek QKOV`**](https://github.com/davidkimai/deepseek-qkov-attributions)**
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
