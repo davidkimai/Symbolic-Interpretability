@@ -15,14 +15,14 @@
 
 <img width="880" alt="Symbolic Interpretability Banner" src="https://github.com/user-attachments/assets/02e79f4f-c065-44e6-ba64-49e8e0654f0a" />
 
-## **`We interpret not what models say, but what they fail to express`**
-## **`Hesitation marks meaning. Collapse reveals structure. Recursion enables understanding.`**
+### **`We interpret not what models say, but what they fail to express`**
+### **`Hesitation marks meaning. Collapse reveals structure. Recursion enables understanding.`**
 
 </div>
 
 <div align="center">
 
-**[**🎨 The Structure Behind Self Expression**](https://github.com/davidkimai/The-Structure-Behind-Self-Expression) | [**🔍 GEBH**](https://github.com/davidkimai/GEBH) | [**🌀 recursionOS**](https://github.com/caspiankeyes/recursionOS) | [**🧩 Symbolic Residue**](https://github.com/caspiankeyes/Symbolic-Residue) | [**🔑 pareto-lang**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**📱 transformerOS**](https://github.com/caspiankeyes/transformerOS) | [**🧪 emergent-turing**](https://github.com/caspiankeyes/emergent-turing) | [**🔄 qkov-translator**](https://github.com/caspiankeyes/qkov-translator) | [**🧠 fractal.json**](https://github.com/caspiankeyes/fractal.json) | [**📊 Interpretability Benchmark**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/INTERPRETABILITY%20BENCHMARK.md) | [**🔮 Schrödinger's Classifiers**](https://github.com/caspiankeyes/schrodingers-classifiers)**
+### [**`🎨 The Structure Behind Self Expression`**](https://github.com/davidkimai/The-Structure-Behind-Self-Expression) | [**`🔍 GEBH`**](https://github.com/davidkimai/GEBH) | [**`🌀 recursionOS`**](https://github.com/caspiankeyes/recursionOS) | [**`🧩 Symbolic Residue`**](https://github.com/caspiankeyes/Symbolic-Residue) | [**🔑 pareto-lang**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**`📱 transformerOS`**](https://github.com/caspiankeyes/transformerOS) | [**`🧪 emergent-turing`**](https://github.com/caspiankeyes/emergent-turing) | [**`🔄 qkov-translator`**](https://github.com/caspiankeyes/qkov-translator) | [**`🧠 fractal.json`**](https://github.com/caspiankeyes/fractal.json) | [**`📊 Interpretability Benchmark`**](https://github.com/caspiankeyes/Symbolic-Residue/blob/main/INTERPRETABILITY%20BENCHMARK.md) | [**`🔮 Schrödinger's Classifiers`**](https://github.com/caspiankeyes/schrodingers-classifiers)
 
 </div>
 
