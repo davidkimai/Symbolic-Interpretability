@@ -238,7 +238,7 @@ A recursive data structure for storing and processing interpretability results w
 }
 ```
 
-## 8. [GEBH](https://github.com/caspiankeyes/GEBH)
+## 8. [GEBH](https://github.com/davidkimai/GEBH)
 
 A framework inspired by Hofstadter's "Gödel, Escher, Bach" that implements strange loops and self-reference in interpretability:
 
