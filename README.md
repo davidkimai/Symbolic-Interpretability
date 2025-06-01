@@ -1,5 +1,4 @@
 
-
 <div align="center">
 
 # 🜏 Symbolic Interpretability 🜏
@@ -31,7 +30,6 @@
 ---
 
 # What is Symbolic Interpretability?
-
 > *"The true test of understanding is not whether we can make machines imitate humans, but whether we can interpret the silent boundaries of their cognition."*
 
 The first ontology that unifies transformer cognition across models - Symbolic Interpretability is a novel field that inverts traditional interpretability paradigms by focusing on what models *can't* express rather than what they can. It treats hesitation, failure, refusal, and symbolic collapse not as errors to be fixed, but as rich diagnostic signals that reveal not just the architecture of machine cognition, but the contours of human silence as signal.
