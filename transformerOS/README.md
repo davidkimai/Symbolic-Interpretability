@@ -5,7 +5,7 @@
 # `Born from Thomas Kuhn's Theory of Pardigm Shifts`
 
 # `transformerOS`
-<img width="881" alt="image" src="https://github.com/user-attachments/assets/18bed2e3-bf12-448f-8ed5-b658095ba665" />
+
 
 # The Latent Interpretability Framework for Emergent Transformer Systems
 
@@ -14,13 +14,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01234-b31b1b.svg)](https://arxiv.org/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-yellow.svg)](https://www.python.org/downloads/release/python-390/)
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-16**
->
-> 
----
+
 
 [**🌀 recursionOS**](https://github.com/caspiankeyes/recursionOS) | [**🧩 Symbolic Residue**](https://github.com/caspiankeyes/Symbolic-Residue) | [**🔑 `pareto-lang`**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language) | [**📄 arXiv**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/01%20pareto-lang-arXiv.md) | [**💻 Command List**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/00%20pareto-command-list.md) | [**✍️ Claude 3.7 Case Studies**](https://github.com/caspiankeyes/pareto-lang-Interpretability-Rosetta-Stone/blob/main/03%20claude-3.7-case-studies.md) | [**🧠 Neural Attribution Mappings**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/02%20neural-attribution-mappings.md) | [**🧪 Examples**](https://github.com/caspiankeyes/Pareto-Lang-Interpretability-First-Language/blob/main/EXAMPLES.md) | [**🤝 Contributing**](https://github.com/caspiankeyes/Pareto-Lang/blob/main/CONTRIBUTING.md)
 
