@@ -1,5 +1,5 @@
 
-### [**`Hugging Face Repo`**](https://huggingface.co/caspiankeyes/fractal.json)
+### [**`Hugging Face Repo`**](https://huggingface.co/recursivelabsai/fractal.json)
 <div align="center">
 
 # *`Born from Thomas Kuhn's Theory of Paradigm Shifts`*
