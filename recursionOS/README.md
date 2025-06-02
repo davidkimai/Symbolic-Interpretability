@@ -1,8 +1,5 @@
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-20**
-### [Hugging Face Repo](https://huggingface.co/caspiankeyes/recursionOS)
+
+### [Hugging Face Repo](https://huggingface.co/recursivelabsai/recursionOS)
 <div align="center">
 
 # `Born from Thomas Kuhn's Theory of Pardigm Shifts`
